@@ -32,7 +32,9 @@ header {
 }
 
 header img {
-        margin: 0 auto;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 1rem;
 }
 
 /* Navigation */
